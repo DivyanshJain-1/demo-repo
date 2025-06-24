@@ -1,4 +1,4 @@
 # demo-repo
 first git repo
 <br>
-Author - Divyansh jain
+Author - Divyansh jain(Integra Design)
